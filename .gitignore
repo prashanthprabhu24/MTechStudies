@@ -1,0 +1,26 @@
+/DLRL/Project/
+/DLRL/Classes/
+/UMLRS/Project/
+/UMLRS/Classes/
+Authors Code/
+Author Code/
+*.jpg
+*.png
+*.keras
+*.h5
+*.txt
+dataset/
+validation/
+val/
+test/
+train/
+dogs_vs_cats_small/
+*.mp4
+*.ipynb_checkpoints
+*xml
+*.env
+*.iml
+*.csv
+*.feat
+*.tgz
+
