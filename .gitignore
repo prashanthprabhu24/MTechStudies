@@ -1,6 +1,5 @@
 /DLRL/Project/
 /DLRL/Classes/
-/UMLRS/Project/
 /UMLRS/Classes/
 Authors Code/
 Author Code/
@@ -24,3 +23,6 @@ dogs_vs_cats_small/
 *.feat
 *.tgz
 
+/UMLRS/Project/Mini Project/
+/UMLRS/Project/ML3 mini project walkthrough.pdf
+/UMLRS/Project/UMLRS_PES2PGE25DS240.ipynb
