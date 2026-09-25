@@ -23,6 +23,8 @@ dogs_vs_cats_small/
 *.feat
 *.tgz
 
-/UMLRS/Project/Mini Project/
-/UMLRS/Project/ML3 mini project walkthrough.pdf
-/UMLRS/Project/UMLRS_PES2PGE25DS240.ipynb
+Mini Project
+*walkthrough.pdf
+*240.ipynb
+*ubyte
+*.gz
